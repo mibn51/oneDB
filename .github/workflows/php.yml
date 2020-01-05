@@ -18,7 +18,8 @@ jobs:
       
     - name: composer update
       run: composer update
-
+    - name: git update
+      run: git update 
     # Add a test script to composer.json, for instance: "test": "vendor/bin/phpunit"
     # Docs: https://getcomposer.org/doc/articles/scripts.md
 
