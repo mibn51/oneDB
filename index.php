@@ -1,3 +1,5 @@
+<html>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" />
 <!-- This snippet uses Font Awesome 5 Free as a dependency. You can download it at fontawesome.io! -->
 
 <body>
@@ -44,4 +46,7 @@
       </div>
     </div>
   </div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.slim.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.bundle.min.js"></script>
 </body>
+</html>
