@@ -12,7 +12,7 @@ jobs:
 
       
     - name: composer initial
-      run: composer.phar init 
+      run: composer init 
       
     - name: Install dependencies
       run: composer install --prefer-dist --no-progress --no-suggest
